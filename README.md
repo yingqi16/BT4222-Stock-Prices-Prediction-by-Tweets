@@ -6,11 +6,17 @@ With the rapid growth of social media in the last two decades, social media plat
 ## Overview of Project
 ![alt text](https://github.com/yingqi16/BT4222-Stock-Prices-Prediction-by-Tweets/blob/main/Screenshot%20(235).png?raw=true)
 
+## Contents
+![alt text](https://github.com/yingqi16/BT4222-Stock-Prices-Prediction-by-Tweets/blob/main/Screenshot%20(236).png?raw=true)
+
 ## Environment
 
-Python, Jupyter Notebook
+* Python
+* Jupyter Notebook
 
 ## Files / Directory 
+
+Please refer to <a href="https://github.com/yingqi16/BT4222-Stock-Prices-Prediction-by-Tweets/blob/main/File%20Directory.xlsx" target="_blank">this documentation</a> for the complete directory.
 
 | Stage                         | Python files                                                                                                                                                                                                                                                              |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
