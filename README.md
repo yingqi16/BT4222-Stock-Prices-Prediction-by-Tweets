@@ -1,5 +1,11 @@
 # BT4222-Stock-Prices-Prediction-by-Tweets
 
+## Introduction
+With the rapid growth of social media in the last two decades, social media platforms have become an everyday staple throughout the last decade. The integration of social media into everyday life does not simply stop at the average joe. Influencers and business accounts throughout the last decade have aggressively pushed out advertisements and information that can sway public opinion. Many naive investors may rush to invest in the market based on CEO tweets and sensationalized news articles on how certain tweets from CEOs have impacted their company’s stock prices, without doing their due diligence in researching about the company and its products. Thus, we aim to find out if the CEO's tweets could indeed aid us in the prediction of the stock market, or more specifically, whether or not the change in stock price is negative or positive based on information on social media. We also aim to find out common topics raised by CEOs that gain traction.
+
+
+## Files
+
 | Stage                         | Python files                                                                                                                                                                                                                                                              |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Data Scraping                 | getting_stocks_data.ipynb Getting_Data_from_Twitter.ipynb                                                                                                                                                                                                                 |
